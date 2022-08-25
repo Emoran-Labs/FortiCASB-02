@@ -1,0 +1,7 @@
+China UnionPay
+ExpressPay Credit Card (cup)
+
+Card Number	Expiry Date	CVC	Issuing Country
+8171 9999 2766 0000	10/2030	737	CN
+8171 9999 0000 0000 021	10/2030	737	CN
+6243 0300 0000 0001	12/2029	737	CN

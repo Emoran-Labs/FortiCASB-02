@@ -1,0 +1,5 @@
+Maestro
+For online Maestro payments, 3D Secure is mandatory. See Test 3D Secure 2 authentication.
+
+Card Number	Issuing Country	Expiry Date	CVV2/CVC3
+6771 7980 2100 0008	US	03/2030	737

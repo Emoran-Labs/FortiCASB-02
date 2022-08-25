@@ -1,0 +1,396 @@
+Sl.No
+Employee Name
+Designation
+Phone Number
+Email Id
+1
+Abhimanyu Gartia
+Executive Director
+22250047
+agartia@posoco.in
+2
+K.Palaniappan
+CGM (HR)
+22352850
+kpalaniappan@posoco.in
+3
+SP Kumar
+CGM
+22352850
+spkumar@posoco.in
+4
+K.S. Devaprasad
+CGM
+22352850
+ksdevaprasad@posoco.in
+5
+T. Kalanithy
+Sr.GM
+41136040
+t_kalanithy@posoco.in
+6
+Jane Jose
+GM
+22352850
+janejose@posoco.in
+7
+T Srinivas
+GM
+22352850
+tsrinivas@posoco.in
+8
+Somara Lakra
+GM
+22352850
+somara.lakra@posoco.in
+9
+P.Sudhakar
+GM
+22254525
+psudhakar@posoco.in
+10
+A.Subbanna
+Sr.DGM
+22352850
+asubbanna@posoco.in
+11
+Shamreena Verghese
+Sr.DGM
+22263463
+svarghese@posoco.in
+12
+C.Rethi Nair
+Sr.DGM
+22352850
+Nair.rethi@posoco.in
+13
+Rakesh
+DGM
+22352850
+rakesh@posoco.in
+14
+M.Nagendrakumar
+DGM
+22268726
+mnagendra@posoco.in
+15
+T. Muthukumar
+DGM
+22352850
+tmuthukumar@posoco.in
+16
+Sunil Kumar Jaiswal
+DGM(F&A)
+22352850
+sunil.jaiswal@posoco.in
+17
+Muraleedharan K.R.
+CM
+22352850
+muraleedharan@posoco.in
+18
+M.Venkateshan
+CM
+22352850
+venkateshanm@posoco.in
+19
+S.Suresh Raj
+CM
+22352850
+sureshraj@posoco.in
+20
+Goodelli Madhukar
+CM
+22352850
+madhukar@posoco.in
+21
+C Murugavell
+CM
+22352850
+murugavel@posoco.in
+22
+Manjunath GR
+CM
+22352850
+manjunathgr@posoco.in
+23
+Naga Suresh Movva
+CM
+22352850
+sureshmovva@posoco.in
+24
+Anjana Bajaj
+Manager (F&A)
+22352850
+anjanagovil@posoco.in
+25
+Kamlesh Kumar
+Manager
+22352850
+kamlesh@posoco.in
+26
+Abdullah Siddique
+Manager
+22352850
+abdullah@posoco.in
+27
+K.Suresh Kumar
+Manager
+22263463
+ksureshkumar@posoco.in
+28
+Anusha Baruah
+Manager
+22352850
+anusha@posoco.in
+29
+Suresh N
+Manager (F&A)
+22352850
+nsuresh@posoco.in
+30
+M.Pradeep Reddy
+Manager
+22352850
+pradeep.reddy@posoco.in
+31
+Sarath Babu P.
+Manager
+22352850
+sarathbabu@posoco.in
+32
+Hirak Roy
+Manager
+22352850
+hirakroy@posoco.in
+33
+D VS Phaneendra
+Manager
+22352850
+phaneendera@posoco.in
+34
+Himanshu Chordia
+Manager
+22352850
+himanshu@posoco.in
+35
+Yekambaram Kasani
+Dy MGR
+22352850
+yekambaram@posoco.in
+36
+L.Sharath Chand
+Dy MGR
+22352850
+sharathchand@posoco.in
+37
+Vijitha K
+Dy MGR
+22268726
+vijitha@posoco.in
+38
+Sudeep M
+Dy MGR
+22352850
+sudeepm@posoco.in
+39
+Arthi Sahay Rones
+Dy MGR
+22352850
+arthi@posoco.in
+40
+Shruthi B S
+Dy MGR
+22352850
+shruthibs@posoco.in
+41
+Sanyasi Naidu J
+Dy MGR
+22352850
+jsnaidu@posoco.in
+42
+Kothamasu Bhaskar Vijay Ramkumar
+Dy MGR
+22352850
+ramkumar@posoco.in
+43
+Asudi Janardhan
+Dy MGR
+22352850
+ajanardhan@posoco.in
+44
+Vamshi B
+Dy MGR
+22352850
+vamshi@posoco.in
+45
+Sagar Amagonda Wadi
+Dy MGR
+22352850
+sagarwadi@posoco.in
+46
+Gurram Praveen Kumar
+Dy MGR
+22352850
+gurrampraveen@posoco.in
+47
+Ganji Ajith
+Asst. Manager
+22352850
+ganjiajith@posoco.in
+48
+Abishek R S
+Asst. Manager
+22352850
+abishekrs@posoco.in
+49
+Ashwini Mani Tripathi
+Asst. Manager (HR)
+22352850
+ashwinitripathi@posoco.in
+50
+Medi Praveen Kumar
+Asst. Manager (F&A)
+22352850
+medi@posoco.in
+51
+C.Vamseedhar Reddy
+Asst. Manager (F&A)
+22352850
+cvreddy@posoco.in
+Employee List of SRLDC with Email Id
+52
+Kalikiri Bal Reddy
+Asst. Manager
+22352850
+kalikiri@posoco.in
+53
+Nitish Murari
+Asst. Manager
+22352850
+amit@posoco.in
+54
+TM Mathews
+Asst. Manager
+22352850
+tmmathews@posoco.in
+55
+M.Dileep Kumar
+ET (CS)
+22352850
+mdileepkumar@posoco.in
+56
+D.Uday Santhosh
+ET (CS)
+22352850
+uday.santhosh@posoco.in
+57
+MVD Raghva
+ET (CS)
+22352850
+mvd.raghava@posoco.in
+58
+P.Lakshmi
+ET(F&A)
+22352850
+parisa@posoco.in
+59
+A.Hemanth Kumar
+ET(Electrical)
+22352850
+hemanth@posoco.in
+60
+Sreehari K
+ET(Electrical)
+22352850
+sreehari@posoco.in
+61
+T.Venkatesh
+ET(Electrical)
+22352850
+tvenkatesh@posoco.in
+62
+MVL Rajendra
+ET(Electrical)
+22352850
+63
+Chithra S
+EXE SEC Gr-I
+22250047
+chithras@posoco.in
+64
+P.K.Sadhu
+EXE SEC Gr-I
+22352850
+pksadhu@posoco.in
+65
+V. Mari Siddappa
+Engineer
+22352850
+vms@posoco.in
+66
+P.R. Hareesh
+Engineer
+22352850
+prhareesh@posoco.in
+67
+S.Santhosh
+Engineer
+22352850
+ssanthosh@posoco.in
+68
+Divith H.T.
+Jr Officer (HR)
+22352850
+divith@posoco.in
+69
+Shaik Mohmmed Gouse Pasha
+Jr Officer (HR)
+22352850
+smg.pasha@posoco.in
+70
+Kolabathula Srinuvasu
+Jr.Engr(Electrical)
+22352850
+srinuvasu@posoco.in
+71
+K Veeranjaneyulu
+Jr.Engr(Electrical)
+22352850
+anjikunchala@posoco.in
+72
+Harish Havanur
+Jr.Engr(Electrical)
+22352850
+73
+Kumaraswamy KR
+Jr.Engr(IT)
+22352850
+kumaraswamy@posoco.in
+74
+Budigi Bheemesh
+Jr.Engr(Electrical)
+22352850
+75
+A Vinay Kumar Goud
+Jr.Engr(Electronics)
+22352850
+vinaykumar@posoco.in
+76
+P Sunil kumar
+Sr.Steno SG-II
+22352850
+psunilkumar@posoco.in
+77
+Simarjeet Singh
+Asst(F&A)
+22352850
+simarjeet@posoco.in
+78
+G Poobalan
+MTS Gr.IV
+22352850
+79
+K Rudrappa
+MTS Gr.IV
+22352850

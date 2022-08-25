@@ -1,0 +1,108 @@
+Sl. N
+Employee Name Desg Dept. EPBAX Office E-Mail
+1 D.K Jain ED I/C 910 30116910/24235325 dk.jain@posoco.in
+2 G Mitra Sr. GM MO/IT/TS 965 30116965 gopalmitra@posoco.in
+3 S Banerjee GM SO/SS/MIS 913 30116913/ 24235352 surajit.banerjee@posoco.in
+4 Sukumar Sardar GM SO 992 30116992/ 24235265 sukumar@posoco.in
+5 S K Mukhopadhyay GM C&M 917 30116917/ 24235014 skmukh@posoco.in
+6 S P Barnwal GM SCADA 918 30116918/ 24220178 spbarnwal@posoco.in
+7 S Konar Sr. DGM SO/MIS 915 30116915 konar_s@posoco.in
+8 A N Pal Sr. DGM SO 956 30116956/ 24235265 anpal@posoco.in
+9 R Bishnu Sr. DGM SO 992 30116992/ 24235265 rbishnu@posoco.in
+10 M Viswanadh DGM SCADA 920 30116920 mviswanadh@posoco.in
+11 J G Das DGM SO 992 30116992/ 24235265 jgdas@posoco.in
+12 L Muralikrishna DGM SO 992 30116992/ 24235265 lmuralikrishna@posoco.in
+13 Sougato Mondal DGM SO 992 30116992/ 24235265 saugato@posoco.in
+14 G K Kundu DGM HR 924 30116924/ 24174049 gkkundu@posoco.in
+15 Vivek Upadhyay DGM F&A 971 30116971 vivek.upadhyay@posoco.in
+16 T R Mahaparta Ch. Mgr SO 927 30116927 trmohapatra@posoco.in
+17 N Ahmed Ch. Mgr MO 926 30116926 nadim@posoco.in
+18 B B Bhoi Ch. Mgr SO 923 30116923 bibhu@posoco.in
+19 P P Chand Ch. Mgr SO 992 30116992/ 24235265 purnprakash@posoco.in
+20 Manas Das Ch. Mgr MO 928 30116928/ 24235428 manasdas@posoco.in
+21 Bilas Achari Ch. Mgr SO 989 30116989 bilas.achari@posoco.in
+22 Manas Kr Mallick Mgr TS/SAFETY 916 30116916 mkmallick@posoco.in
+23 Saurav Kr Sahay Mgr SS 931 30116931 saurav.sahay@posoco.in
+24 Rosy Sinha Mgr HR 929 30116929/ 24174049 rosysinha@posoco.in
+25 S S Das Mgr F&A 922 30116922/24235182 ssdas@posoco.in
+26 A B Sengupta Mgr IT/TS 933 30116933 anwayasen@posoco.in
+27 Pinki Debnath Mgr MO 932 30116932 pinkidebnath@posoco.in
+28 Rakesh Kr Pradhan Mgr SO 989 30116989/ 24235265 rkpradhan@posoco.in
+29 Karan Vasandani Mgr F&A 935 30116935 karanvasandani@posoco.in
+30 Abhineet Kumar Mgr C&M 947 30116947 abhineet@posoco.in
+31 Abhijit Bhuin Mgr MIS 934 30116934 abhuin@posoco.in
+32 Chandan kumar Mgr SS 925 30116925 chandan@posoco.in
+33 Debajyoti Majumdar Mgr SO 911 033-30116911 debajyoti.majumdar@posoco.in
+34 Pranab Debnath Mgr SO dpnpgrid@posoco.in
+35 Gourav Mukherjee Dy. Mgr SO 936 30116936 gaurav.mukherjee@posoco.in
+36 Biswajit Mondal Dy. Mgr SCADA 921 30116921 biswajit.mondal@posoco.in
+37 Raj Protim Kundu Dy. Mgr SS 939 30116939 rajprotim@posoco.in
+38 Ashoke Kumar Basak Dy. Mgr SS 941 30116941 akbasak@posoco.in
+39 Chandan Mallick Dy. Mgr SO 955 30116955 chandan.mallick@posoco.in
+40 Shabari Pramanick Dy. Mgr MO 943 30116943 shabari.pramanick@posoco.in
+41 Alok Pratap Singh Dy. Mgr SS 989 30116989/ 24235265 apsingh@posoco.in
+42 Laldhari Kumar Dy. Mgr SS 938 30116938 laldhari@posoco.in
+43 Saibal Ghosh Dy. Mgr SS 93 30116989/ 24235265 saibal@posoco.in
+44 Sourav Biswas Dy. Mgr SO 938 30116938 sbiswas@posoco.in
+45 Ranadip Das Dy. Mgr SO 978 30116978 ranadipdas@posoco.in
+46 Akash Kumar Modi Asstt. Mgr SS 989 30116989/ 24235265 akmodi@posoco.in
+47 Amit Kr Choudhary Asstt. Mgr SCADA 919 30116919 akchoudhury@posoco.in
+48 Pritam Mukherjee Asstt. Mgr SS 989 30116989/ 24235265 pritam@posoco.in
+49 Shiv Shambhu kr Suman Asstt. Mgr SO 989 30116989/ 24235265 sskumar@posoco.in
+50 Violet Kerketta Asstt. Mgr HR 945 30116945/ 24174049 violet@posoco.in
+51 Shinjinee laik Asstt. Mgr F&A 944 30116944 shinjinee@posoco.in
+52 Sumanta Sadhukhan Asstt. Mgr SO sumanta@posoco.in
+53 Md. Fraz Asstt. Mgr SO 936 30116936 mdfraz@posoco.in
+54 Sunil Kumar Meena ET(CS) OJT sunil.meena@posoco.in
+55 Pritam Dutta ET(CS) OJT pritam.dutta@posoco.in
+56 Abhishek Daley ET F&A abhishekdaley@posoco.in
+57 N N Das Jr. Engr(SSG) TS 946 30116946 nndas@posoco.in
+58 Roshan Jaiswal Jr. Engr IT 951 30116951 roshanjaiswal@posoco.in
+59 Bibek Agrawal Jr. Engr SCADA 937 30116937 bibek@posoco.in
+60 Dipankar Bag Jr. Engr SO 936 30116936 dbag0508@posoco.in
+61 Avijit Roy Jr. Engr TS/IT 948 30116948 avijitroy@posoco.in
+62 Ranajit Pal Jr. Engr MO 928 30116928 ranjitpal@posoco.in
+63 Debasis Das TEC GR-II C&M 953 30116953 debasisdas@posoco.in
+64 Sankar Jana TEC GR-II TS 953 30116953 sankarjana@posoco.in
+65 P N Sarkar TEC GR-II SO 989 30116989/ 24235265 pnsarkar@posoco.in
+66 A K Nag TEC GR-II TS 953 30116953 aknag@posoco.in
+67 Sankar Das TEC GR-II SO 953 30116953 sankardas@posoco.in
+68 Ajoy Biswas TEC GR-II SO 953 30116953 abiswas@posoco.in
+69 Biswanath Das TEC GR-II SO 953 30116953 bdas@posoco.in
+70 A C Das MTS SO 989 30116989/ 24235265 acdas@posoco.in
+71 A K Sildas MTS SCADA & IT 953 30116953 aksildas@posoco.in
+72 Shyamal Ghosh MTS HR 958 30116958/33-24235867 shyamal@posoco.in
+73 T B Bhowmik MTS MO 959 30116959 tbbhowmik@posoco.in
+74 Maya Saha MTS F&A 959 30116959 mayasaha@posoco.in
+75 Timir Halder MTS F&A 989 30116989/ 24235265 timirhaldar@posoco.in
+CONTACT LIST OF ERLDC, POSOCO EMPLOYEES AS ON 01.07.2019
+76 S K Chowdhury MTS C&M 989 30116989/ 24235265 skchowdhury@posoco.in
+77 Santosh Saha MTS SO 989 30116989/ 24235265 santoshsaha@posoco.in
+78 Tapan Roy MTS ED Sect. 942 30116942 tapanroy@posoco.in
+79 Bappa Paul Jr. Engr MO bappapaul@posoco.in
+80 Soupayan Ballav Jr. Engr MO soupayanballav@posoco.in
+81 Sujit Nandi Jr. Engr TS sujitnandi@posoco.in
+82 Rakesh Kumar Singh Jr. Engr HR rksingh@posoco.in
+83 Alok Raj DT SCADA alokraj@posoco.in
+84 Diptikanta Das Asstt. F&A diptikanta@posoco.in
+85 Premkant Kumar Singh DT SO premkant@posoco.in
+86 Manish Kumar Yadav ET OJT manish.yadav@posoco.in
+87 Gaurav Agrawal ET OJT gaurav.agarwal@posoco.in
+88 Sugata Bhatacharya ET OJT sugata@posoco.in
+89 Shubhendu Sachin ET OJT shubhendu@posoco.in
+Control Room erldccr@posoco.in
+C/R-EPABX
+C/R-Fax
+ERLDC Desk
+Security Main Gate N.A. 960 NA NA
+Security Tech Block N.A. 961 NA NA
+Switch Gear N.A. 953 NA NA
+Conference Room N.A. 962 NA NA
+AMC Service 9804639564 963 NA erldcit@posoco.in
+NLDC Room N.A. 965 NA NA
+Viewing Gallery N.A. 966 NA NA
+Canteen 982
+24235875/5265, 30116989-996, 65065065
+989-996 & 999(GM-Hotline)
+24235809 / 24235704 / 24235029
+24235042 / 24235867 / 30116900-09

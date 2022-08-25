@@ -1,0 +1,4 @@
+Discover
+Card Number	Issuing Country	Expiry Date	CVD/CID
+6011 6011 6011 6611	US	03/2030	737
+6445 6445 6445 6445	GB	03/2030	737

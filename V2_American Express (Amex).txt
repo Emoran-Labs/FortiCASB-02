@@ -1,0 +1,5 @@
+American Express (Amex)
+Card Number	Issuing Country	Expiry Date	CID
+3700 0000 0000 002	NL	03/2030	7373
+3700 0000 0100 018
+SECURITY CODE OPTIONAL	NL	03/2030	7373
